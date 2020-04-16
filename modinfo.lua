@@ -7,10 +7,10 @@ meta =
 
     -- Name of your mod; You may want this to be unique, but it's not absolutely necessary.
     -- This is an additional helper attribute for you to easily identify your mod in the Mods() list
-    name = "Neko Tech Faction",
+    name = "NekoTechFaction",
 
     -- Title of your mod that will be displayed to players
-    title = "Neko Tech",
+    title = "Neko Tech Faction",
 
     -- Type of your mod, either "mod" or "factionpack"
     type = "factionpack",
