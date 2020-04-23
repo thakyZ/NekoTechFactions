@@ -3,5 +3,11 @@
     "Avorion",
     "Shadowbound",
     "sbbackupdir"
-  ]
+  ],
+  "Lua.diagnostics.disable": [
+    "lowercase-global"
+  ],
+  "markdownlint.config": {
+    "MD036": false
+  }
 }
